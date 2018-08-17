@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "430687281863",
+    "firebase_url": "https://larkt-40d83.firebaseio.com",
+    "project_id": "larkt-40d83",
+    "storage_bucket": "larkt-40d83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430687281863:android:ce42b407f406a887",
+        "android_client_info": {
+          "package_name": "austinnwoo.com.larkt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430687281863-6iedt309i7sclugkkolng5ub1k5af95n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "austinnwoo.com.larkt",
+            "certificate_hash": "25bcc81e8230c3ac7ee8defce51171ebc1ba3bbf"
+          }
+        },
+        {
+          "client_id": "430687281863-enbscn6g6mnbu9u2lmg0nffntdskeooo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ2WcJOehXxXBfL2mxjlHdno8ZpcPqeAs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430687281863-enbscn6g6mnbu9u2lmg0nffntdskeooo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
